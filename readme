@@ -1,0 +1,46 @@
+Desafio da DIO Criando-uma-Organização-Autônoma-Descentralizada
+Ministrada Pelo Especilaista Ricardo Zago
+
+1. Nome da DAO
+Nome: MyGenivanDAO
+2. Missão
+Missão: A MyGenivanDAO tem como missão promover a sustentabilidade ambiental através de ações descentralizadas, empoderando indivíduos e comunidades para implementar práticas ecológicas e combater as mudanças climáticas. Nosso objetivo é criar um movimento global que atue localmente para preservar e restaurar o meio ambiente.
+3. Visão
+Visão: Ser a principal organização descentralizada dedicada à sustentabilidade ambiental, reconhecida pela sua eficácia em promover práticas ecológicas e envolver comunidades globais em ações locais de preservação e restauração ambiental.
+4. Entregas de Valor
+4.1. Plataforma de Projetos Ambientais
+•	Descrição: Uma plataforma onde indivíduos e comunidades podem propor e colaborar em projetos ambientais, como reflorestamento, limpeza de rios e criação de jardins comunitários.
+•	Valor: Facilita a implementação de iniciativas ecológicas, promovendo a cooperação e o impacto positivo local.
+4.2. Fundo de Sustentabilidade
+•	Descrição: Um fundo gerido pela comunidade para financiar projetos ambientais, selecionados através de votação pelos membros da DAO.
+•	Valor: Proporciona recursos para iniciativas que promovem a sustentabilidade e a conservação ambiental.
+4.3. Educação Ambiental
+•	Descrição: Organização de workshops, webinars e campanhas educativas sobre práticas sustentáveis, reciclagem, energia renovável e outros tópicos ambientais.
+•	Valor: Aumenta a conscientização e capacita as pessoas a adotar práticas ecológicas em suas vidas diárias.
+4.4. Certificação de Sustentabilidade
+•	Descrição: Um programa de certificação para projetos e empresas que adotam práticas sustentáveis e contribuem para a preservação ambiental.
+•	Valor: Reconhece e incentiva práticas ecológicas, promovendo a responsabilidade ambiental.
+5. Estrutura da DAO
+5.1. Governança
+•	Modelo: Governança descentralizada onde os membros votam em propostas usando tokens de governança.
+•	Ferramentas: Utilização de plataformas como Snapshot para votações e discussões.
+5.2. Tokenomics
+•	Token: GreenToken (GRN)
+o	Distribuição Inicial: 50% para a comunidade, 20% para a equipe fundadora, 20% para o fundo de sustentabilidade, 10% para marketing e parcerias.
+o	Uso: Tokens de governança, financiamento de projetos, e incentivos para participação em atividades da DAO.
+6. Implementação
+6.1. Criação do Servidor Discord
+•	Objetivo: Criar um ambiente de comunicação e colaboração entre os membros da DAO.
+•	Ações: Configurar canais temáticos (sustentabilidade, projetos, educação), roles para diferentes níveis de participação, e bots para gerenciamento de tarefas e anúncios.
+6.2. Desenvolvimento da Plataforma
+•	Tecnologia: Utilização de Ethereum para contratos inteligentes e Polygon para minimizar taxas de gás.
+•	Ações: Contratar desenvolvedores, definir arquitetura da plataforma, e criar um MVP para testes iniciais. A plataforma incluirá seções para proposta de projetos, votação e monitoramento de iniciativas financiadas.
+6.3. Lançamento do Fundo de Sustentabilidade
+•	Objetivo: Prover financiamento para projetos ambientais propostos pela comunidade.
+•	Ações: Desenvolver smart contracts para gerenciar o fundo, criar um processo transparente de submissão e votação de projetos, e promover a participação dos membros.
+6.4. Promoção e Crescimento da Comunidade
+•	Ações: Campanhas de marketing digital focadas em sustentabilidade, parcerias com ONGs e influenciadores ambientais, e programas de recompensa para novos membros que contribuírem ativamente com projetos e iniciativas.
+6.5. Organização de Eventos Educativos
+•	Objetivo: Aumentar a conscientização e educar sobre práticas sustentáveis.
+•	Ações: Planejar e realizar workshops, webinars e campanhas de conscientização, criar material educativo e disponibilizar recursos na plataforma.
+
